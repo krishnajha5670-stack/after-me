@@ -1,5 +1,6 @@
 # after-me
-This is my first Git Repositiry.
+This is my first Git Repository.
 <br>
-Author - Krishna (youtube)
+Author - Krishna Jha
+
 
